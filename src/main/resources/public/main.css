@@ -7,36 +7,36 @@ body {
 .v1_2 {
   width: 100%;
   height: 1024px;
-  background: rgba(81,81,81,1);
+  background: rgba(180,180,180,1);
   opacity: 1;
-  position: relative;
+  position: center;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
 .v1_14 {
   width: 952px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 473px;
+  color: rgba(90,90,90,1);
+  position: relative;
+  top: 612px;
   left: 244px;
-  font-family: Roboto;
+  font-family: Garamond;
   font-weight: Regular;
   font-size: 64px;
   opacity: 1;
   text-align: center;
 }
 .v1_15 {
-  width: 434px;
-  height: 311px;
+  width: 512px;
+  height: 512px;
   background: url("Connekt1on.png");
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
   opacity: 1;
   position: absolute;
   top: 162px;
-  left: 503px;
+  left: 473px;
   overflow: hidden;
 }
 .name {
@@ -44,11 +44,11 @@ body {
 }
 .v1_19 {
   width: 410px;
-  color: rgba(255,255,255,1);
-  position: absolute;
+  color: rgba(90,90,90,1);
+  position: center;
   top: 797px;
   left: 514px;
-  font-family: Roboto;
+  font-family: Garamond;
   font-weight: Regular;
   font-size: 64px;
   opacity: 1;
