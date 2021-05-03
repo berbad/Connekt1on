@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class WelcomeController {
 
   @GetMapping("/login")
-  public String welsome(){
+  public String welcome(){
     return "Welcome, Connekt1on Placeholder";
   }
 
